@@ -1,4 +1,4 @@
-package router
+package gohttproute
 
 import (
 	"context"

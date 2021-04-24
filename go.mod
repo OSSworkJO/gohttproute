@@ -1,3 +1,3 @@
-module github.com/OSSworkJO/go-http-router
+module github.com/OSSworkJO/gohttproute
 
 go 1.16
